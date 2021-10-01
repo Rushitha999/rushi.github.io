@@ -1,2 +1,0 @@
-# rushi.github.io
-Portfolio

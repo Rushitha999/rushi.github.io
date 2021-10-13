@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans',sans-serif;
+    background-color: black;
+}
+#container{
+    width: 10000px;
+    height: 550px;
+    background-image: url(bgImg.jpg);
+    
+}
+#calculator{
+    
+}
